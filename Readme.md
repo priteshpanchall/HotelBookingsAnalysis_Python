@@ -4,7 +4,7 @@
 This project aims to perform exploratory data analysis (EDA) on hotel booking data to gain insights into booking cancellations and provide recommendations to improve the hotel's efficiency and revenue generation. The analysis focuses on City Hotel and Resort Hotel and explores various factors related to cancellations and their impact on the business.
 
 ## Dataset
-The dataset used for this analysis is sourced from XYZ Hotel Group and contains information about hotel bookings, including customer demographics, booking details, and cancellation status. The dataset covers a period from 2015 to 2017.
+The dataset used for this analysis and contains information about hotel bookings, including customer demographics, booking details, and cancellation status. The dataset covers a period from 2015 to 2017.
 
 ## Research Questions
 1. What are the key factors influencing hotel booking cancellations?
